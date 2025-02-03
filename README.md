@@ -204,4 +204,4 @@ Machine Learning Best Practices: https://mlops.githubapp.com/
 IPMI Tools: https://ipmiutil.sourceforge.net/
 
 Transform monitoring from reactive to proactive! 🚀
-For support, contact your.email@example.com or open an issue on GitHub.
+For support, contact harishmahadevan07@gmail.com or open an issue on GitHub.
