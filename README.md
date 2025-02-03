@@ -1,5 +1,5 @@
-Proactive Server Downtime Prediction and Monitoring System
-Prometheus
+**Proactive Server Downtime Prediction and Monitoring System
+**Prometheus
 Grafana
 Machine Learning
 
